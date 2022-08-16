@@ -6,4 +6,6 @@
     <string name="contDescAwayTeamImage">away team image</string>
 
     <string name="txtVersus" translatable="false">X</string>
+
+    <string name="error_api">Unexpected error in api response or value</string>
 </resources>

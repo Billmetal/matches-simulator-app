@@ -5,4 +5,6 @@
     <string name="contDescSimulate">botão que simula as partidas</string>
     <string name="contDescHomeTeamImage">imagem do time da casa</string>
     <string name="contDescAwayTeamImage">imagem do time visitante</string>
+
+    <string name="error_api">Erro inesperado no valor ou resposta da api</string>
 </resources>
